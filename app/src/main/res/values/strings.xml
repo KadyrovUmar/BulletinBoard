@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">BulletinBoard</string>
+    <string name="ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_inter_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- Menu Drawer Strings -->
+    <string name="ad_cat1">Машины</string>
+    <string name="ad_my_ads">Мои машины</string>
+    <string name="my_fav">Избранные</string>
+    <string name="def">Разное</string>
+    <string name="ad_car">BMW</string>
+    <string name="ad_pc">Mers</string>
+    <string name="ad_smartphone">Opel</string>
+    <string name="ad_dm">Mazda</string>
+    <string name="ad_cat2">Аккаунт</string>
+    <string name="ac_sign_up">Регистрация</string>
+    <string name="ac_sign_in">Вход</string>
+    <string name="ac_sign_out">Выход</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="not_reg">Войдите или зарегестрируйтесь!</string>
+    <!-- Sign Dialog -->
+    <string name="email_reset_password_was_sent">Reset Email was sent!</string>
+    <string name="dialog_reset_email_message">Для востановления пароля укажите ваш Email адресс!</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="sign_up_error">Неудалось зарегестрироваться</string>
+    <string name="sign_in_error">Неудалось войти</string>
+    <string name="send_verification_error">Неудалось отправить email для потверждения!</string>
+    <string name="send_verification_done">На вашу почту была отправленна ссылка для подверждения
+        вашего аккаунта, пожалуйста подтвердите ваш аккаунт!</string>
+    <!-- Sign Dialog -->
+    <string name="link_done">Email успешно подключен к Google аккаунту</string>
+    <string name="enter_to_g">У вас уже есть аккаунт с этим Email адресом войдите по нему.</string>
+    <!-- Edit Activity -->
+    <string name="select_country">*Выберите страну</string>
+    <string name="select_city">*Выберите город</string>
+    <string name="country">Страна</string>
+    <string name="city">Город</string>
+    <string name="index">*Индекс</string>
+    <string name="tel">Телефон</string>
+    <string name="tel_number">*Номер телефона</string>
+    <string name="category">Категория</string>
+    <string name="title">Заголовок</string>
+    <string name="title_hint">* Название объявления</string>
+    <string name="select_category">*Выберите категорию</string>
+    <string name="price">Цена</string>
+    <string name="price_hint">*Укажите цену</string>
+    <string name="description">Описание</string>
+    <string name="description_hint">*Описание</string>
+    <string name="with_send">С отправкой</string>
+    <string name="send">Отправка</string>
+    <string name="publish">Опубликовать</string>
+    <string name="remove_ads">Удалить рекламу</string>
+    <!-- Ad List Item -->
+    <string name="price_desc">Цена:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id" />
+</resources>
